@@ -1,2 +1,10 @@
 /target
 **/*.rs.bk
+bootstrap
+*.zip
+*.gz
+*.tgz
+*.tar
+*.tar.gz
+*.bz2
+
